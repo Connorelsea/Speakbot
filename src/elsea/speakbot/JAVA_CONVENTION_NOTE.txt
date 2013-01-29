@@ -1,0 +1,3 @@
+Note to any reviewers:
+
+I do not use standard Java convention because having variables as all capitals makes the code easier for me to read, review, and use. Sorry for any trouble this may have caused.
